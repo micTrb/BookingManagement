@@ -6,4 +6,4 @@ This project consists in a Java program (using OOP) for the management of a spac
 
 # Classes structure
 
-bla bla bla
+The whole project uses italian names for
